@@ -1,1 +1,2 @@
-# tarnrp-issues
+# TarnRP-issues
+TarnRP issues and suggestions
